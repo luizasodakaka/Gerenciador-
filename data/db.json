@@ -23,6 +23,23 @@
       "nome": "Tech Solutions LTDA",
       "cnpj": "60.456.789/0001-50",
       "email": "info@techsolutions.com"
+    },
+    {
+      "nome": "lulu",
+      "cnpj": "11111111111111",
+      "email": "luizacavalcanteddasilva@gmail.com",
+      "tipoFornecedor": "COMUM",
+      "endereco": {
+        "cep": "58088-600",
+        "logradouro": "Rua Djalma Ribeiro da Silva",
+        "numero": "33",
+        "complemento": "lulu",
+        "bairro": "Oitizeiro",
+        "cidade": "João Pessoa",
+        "estado": "PB",
+        "pais": "Brasil"
+      },
+      "id": 6
     }
   ],
   "produtos": [
